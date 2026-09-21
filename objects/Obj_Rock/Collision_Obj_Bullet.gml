@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 3ABD93B1
+/// @DnDArgument : "soundid" "snd_rockdestroy"
+/// @DnDSaveInfo : "soundid" "snd_rockdestroy"
+audio_play_sound(snd_rockdestroy, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 193835E3

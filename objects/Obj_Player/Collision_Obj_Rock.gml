@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 605424D0
+/// @DnDArgument : "soundid" "snd_lose"
+/// @DnDSaveInfo : "soundid" "snd_lose"
+audio_play_sound(snd_lose, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 3B9E331F
